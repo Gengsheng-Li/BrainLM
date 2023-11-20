@@ -1,0 +1,85 @@
+2023-11-20 21:34:34,103 INFO    StreamThr :38132 [internal.py:wandb_internal():86] W&B internal server running at pid: 38132, started at: 2023-11-20 21:34:34.102184
+2023-11-20 21:34:34,104 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: status
+2023-11-20 21:34:34,111 INFO    WriterThread:38132 [datastore.py:open_for_write():85] open: E:\Projects\BrainLM\wandb\run-20231120_213434-v7djr06g\run-v7djr06g.wandb
+2023-11-20 21:34:34,111 DEBUG   SenderThread:38132 [sender.py:send():380] send: header
+2023-11-20 21:34:34,151 DEBUG   SenderThread:38132 [sender.py:send():380] send: run
+2023-11-20 21:34:38,023 INFO    SenderThread:38132 [retry.py:__call__():172] Retry attempt failed:
+Traceback (most recent call last):
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\urllib3\connectionpool.py", line 712, in urlopen
+    self._prepare_proxy(conn)
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\urllib3\connectionpool.py", line 1012, in _prepare_proxy
+    conn.connect()
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\urllib3\connection.py", line 369, in connect
+    self.sock = conn = self._connect_tls_proxy(hostname, conn)
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\urllib3\connection.py", line 504, in _connect_tls_proxy
+    socket = ssl_wrap_socket(
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\urllib3\util\ssl_.py", line 453, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls)
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\urllib3\util\ssl_.py", line 495, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock)
+  File "D:\Anaconda\envs\brainLM\lib\ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "D:\Anaconda\envs\brainLM\lib\ssl.py", line 1073, in _create
+    self.do_handshake()
+  File "D:\Anaconda\envs\brainLM\lib\ssl.py", line 1342, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLZeroReturnError: TLS/SSL connection has been closed (EOF) (_ssl.c:1131)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\urllib3\connectionpool.py", line 799, in urlopen
+    retries = retries.increment(
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /graphql (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:1131)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\wandb\sdk\lib\retry.py", line 131, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\wandb\sdk\internal\internal_api.py", line 366, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\wandb\sdk\lib\gql_request.py", line 58, in execute
+    request = self.session.post(self.url, **post_args)
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\requests\sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\requests\adapters.py", line 517, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /graphql (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:1131)')))
+2023-11-20 21:34:39,195 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: keepalive
+2023-11-20 21:34:44,240 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: keepalive
+2023-11-20 21:34:49,278 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: keepalive
+2023-11-20 21:34:54,313 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: keepalive
+2023-11-20 21:34:59,347 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: keepalive
+2023-11-20 21:35:04,392 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: keepalive
+2023-11-20 21:35:09,441 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: keepalive
+2023-11-20 21:35:14,470 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: keepalive
+2023-11-20 21:35:19,506 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: keepalive
+2023-11-20 21:35:24,545 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: keepalive
+2023-11-20 21:35:29,585 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: keepalive
+2023-11-20 21:35:34,611 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: keepalive
+2023-11-20 21:35:39,649 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: keepalive
+2023-11-20 21:35:44,694 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: keepalive
+2023-11-20 21:35:49,731 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: keepalive
+2023-11-20 21:35:54,765 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: keepalive
+2023-11-20 21:35:59,811 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: keepalive
+2023-11-20 21:36:04,849 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: cancel
+2023-11-20 21:36:04,850 DEBUG   SenderThread:38132 [sender.py:send():389] Record cancelled: run
+2023-11-20 21:36:04,850 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: cancel
+2023-11-20 21:36:04,850 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: status_report
+2023-11-20 21:36:06,869 DEBUG   HandlerThread:38132 [handler.py:handle_request():146] handle_request: shutdown
+2023-11-20 21:36:06,869 INFO    HandlerThread:38132 [handler.py:finish():866] shutting down handler
+2023-11-20 21:36:06,879 INFO    SenderThread:38132 [sender.py:finish():1534] shutting down sender
+2023-11-20 21:36:06,879 INFO    WriterThread:38132 [datastore.py:close():294] close: E:\Projects\BrainLM\wandb\run-20231120_213434-v7djr06g\run-v7djr06g.wandb

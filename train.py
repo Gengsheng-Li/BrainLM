@@ -31,6 +31,7 @@ from brainlm_mae.configuration_brainlm import BrainLMConfig
 from utils.brainlm_trainer import BrainLMTrainer
 from utils.metrics import MetricsCalculator
 
+os.environ["WANDB_DISABLED"] = "true"
 
 """ Pre-training a 🤗 ViT model as an MAE (masked autoencoder), as proposed in https://arxiv.org/abs/2111.06377."""
 logger = logging.getLogger(__name__)

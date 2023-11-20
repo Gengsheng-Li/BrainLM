@@ -1,0 +1,1968 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "timepoint_1": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_2": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_3": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_4": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_5": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_6": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_7": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_8": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_9": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_10": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_11": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_12": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_13": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_14": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_15": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_16": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_17": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_18": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_19": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_20": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_21": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_22": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_23": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_24": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_25": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_26": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_27": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_28": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_29": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_30": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_31": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_32": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_33": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_34": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_35": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_36": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_37": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_38": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_39": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_40": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_41": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_42": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_43": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_44": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_45": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_46": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_47": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_48": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_49": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_50": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_51": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_52": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_53": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_54": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_55": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_56": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_57": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_58": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_59": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_60": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_61": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_62": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_63": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_64": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_65": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_66": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_67": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_68": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_69": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_70": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_71": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_72": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_73": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_74": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_75": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_76": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_77": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_78": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_79": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_80": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_81": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_82": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_83": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_84": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_85": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_86": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_87": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_88": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_89": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_90": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_91": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_92": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_93": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_94": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_95": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_96": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_97": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_98": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_99": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_100": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_101": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_102": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_103": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_104": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_105": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_106": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_107": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_108": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_109": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_110": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_111": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_112": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_113": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_114": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_115": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_116": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_117": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_118": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_119": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_120": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_121": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_122": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_123": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_124": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_125": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_126": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_127": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_128": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_129": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_130": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_131": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_132": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_133": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_134": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_135": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_136": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_137": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_138": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_139": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_140": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_141": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_142": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_143": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_144": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_145": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_146": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_147": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_148": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_149": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_150": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_151": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_152": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_153": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_154": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_155": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_156": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_157": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_158": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_159": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_160": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_161": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_162": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_163": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_164": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_165": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_166": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_167": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_168": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_169": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_170": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_171": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_172": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_173": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_174": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_175": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_176": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_177": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_178": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_179": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_180": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_181": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_182": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_183": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_184": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_185": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_186": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_187": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_188": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_189": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_190": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_191": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_192": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_193": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_194": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_195": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_196": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_197": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_198": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_199": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_200": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_201": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_202": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_203": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_204": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_205": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_206": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_207": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_208": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_209": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_210": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_211": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_212": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_213": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_214": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_215": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_216": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_217": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_218": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_219": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_220": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_221": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_222": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_223": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_224": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_225": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_226": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_227": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_228": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_229": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_230": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_231": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_232": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_233": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_234": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_235": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_236": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_237": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_238": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_239": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_240": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_241": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_242": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_243": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_244": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_245": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_246": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_247": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_248": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_249": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_250": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_251": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_252": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_253": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_254": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_255": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_256": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_257": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_258": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_259": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_260": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_261": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_262": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_263": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_264": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_265": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_266": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_267": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_268": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_269": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_270": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_271": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_272": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_273": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_274": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_275": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_276": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_277": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_278": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_279": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_280": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_281": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_282": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_283": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_284": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_285": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_286": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_287": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_288": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_289": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_290": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_291": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_292": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_293": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_294": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_295": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_296": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_297": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_298": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_299": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_300": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_301": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_302": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_303": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_304": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_305": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_306": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_307": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_308": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_309": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_310": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_311": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_312": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_313": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_314": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_315": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_316": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_317": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_318": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_319": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_320": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_321": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_322": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_323": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_324": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_325": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_326": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_327": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_328": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_329": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_330": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_331": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_332": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_333": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_334": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_335": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_336": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_337": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_338": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_339": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_340": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_341": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_342": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_343": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_344": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_345": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_346": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_347": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_348": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_349": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_350": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_351": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_352": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_353": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_354": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_355": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_356": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_357": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_358": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_359": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_360": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_361": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_362": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_363": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_364": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_365": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_366": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_367": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_368": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_369": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_370": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_371": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_372": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_373": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_374": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_375": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_376": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_377": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_378": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_379": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_380": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_381": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_382": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_383": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_384": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_385": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_386": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_387": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_388": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_389": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_390": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_391": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_392": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_393": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_394": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_395": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_396": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_397": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_398": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_399": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_400": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_401": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_402": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_403": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_404": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_405": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_406": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_407": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_408": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_409": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_410": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_411": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_412": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_413": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_414": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_415": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_416": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_417": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_418": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_419": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_420": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_421": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_422": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_423": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_424": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_425": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_426": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_427": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_428": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_429": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_430": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_431": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_432": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_433": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_434": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_435": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_436": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_437": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_438": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_439": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_440": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_441": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_442": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_443": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_444": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_445": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_446": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_447": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_448": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_449": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_450": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_451": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_452": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_453": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_454": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_455": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_456": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_457": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_458": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_459": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_460": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_461": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_462": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_463": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_464": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_465": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_466": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_467": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_468": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_469": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_470": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_471": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_472": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_473": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_474": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_475": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_476": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_477": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_478": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_479": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_480": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_481": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_482": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_483": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_484": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_485": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_486": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_487": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_488": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_489": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "timepoint_490": {
+      "dtype": "float64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

@@ -1,0 +1,34 @@
+  0%|                                                                                                                                                | 0/100 [00:00<?, ?it/s]Traceback (most recent call last):
+  File "train.py", line 652, in <module>
+    main()
+  File "train.py", line 622, in main
+    train_result = trainer.train(resume_from_checkpoint=checkpoint)
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\transformers\trainer.py", line 1556, in train
+    return inner_training_loop(
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\transformers\trainer.py", line 1816, in _inner_training_loop
+    for step, inputs in enumerate(epoch_iterator):
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\accelerate\data_loader.py", line 451, in __iter__
+    current_batch = next(dataloader_iter)
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\torch\utils\data\dataloader.py", line 652, in __next__
+    data = self._next_data()
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\torch\utils\data\dataloader.py", line 692, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\torch\utils\data\_utils\fetch.py", line 49, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\torch\utils\data\_utils\fetch.py", line 49, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\datasets\arrow_dataset.py", line 2803, in __getitem__
+    return self._getitem(key)
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\datasets\arrow_dataset.py", line 2788, in _getitem
+    formatted_output = format_table(
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\datasets\formatting\formatting.py", line 629, in format_table
+    return formatter(pa_table, query_type=query_type)
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\datasets\formatting\formatting.py", line 396, in __call__
+    return self.format_row(pa_table)
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\datasets\formatting\formatting.py", line 485, in format_row
+    formatted_batch = self.format_batch(pa_table)
+  File "D:\Anaconda\envs\brainLM\lib\site-packages\datasets\formatting\formatting.py", line 515, in format_batch
+    return self.transform(batch)
+  File "train.py", line 524, in preprocess_fmri
+    signal_vector = examples[recording_col_name][0]
+KeyError: 'Voxelwise_RobustScaler_Normalized_Recording'

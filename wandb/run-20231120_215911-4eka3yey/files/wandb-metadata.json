@@ -1,0 +1,62 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.8.18",
+    "heartbeatAt": "2023-11-20T13:59:12.992504",
+    "startedAt": "2023-11-20T13:59:11.075584",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--train_dataset_path",
+        "./simulated_trn_data",
+        "--val_dataset_path",
+        "./simulated_val_data",
+        "--coords_dataset_path",
+        "./simulated_coords_data",
+        "--output_dir",
+        "./output_models"
+    ],
+    "state": "running",
+    "program": "train.py",
+    "codePathLocal": "train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/vandijklab/BrainLM.git",
+        "commit": "190a0adac8e71fd968b00e3ef265b2bb4f4951c2"
+    },
+    "email": "ligengchengucd@163.com",
+    "root": "E:/Projects/BrainLM",
+    "host": "LAPTOP-G8U7O3JS",
+    "username": "RyukiRi",
+    "executable": "D:\\Anaconda\\envs\\brainLM\\python.exe",
+    "cpu_count": 14,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 1506.0,
+        "min": 0.0,
+        "max": 2300.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1506.0,
+            "min": 0.0,
+            "max": 2300.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1907.7265586853027,
+            "used": 263.9978370666504
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3080 Ti Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3080 Ti Laptop GPU",
+            "memory_total": 17179869184
+        }
+    ],
+    "memory": {
+        "total": 63.672584533691406
+    }
+}
