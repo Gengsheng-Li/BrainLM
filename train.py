@@ -31,6 +31,7 @@ from brainlm_mae.configuration_brainlm import BrainLMConfig
 from utils.brainlm_trainer import BrainLMTrainer
 from utils.metrics import MetricsCalculator
 
+#  Set the WandB
 os.environ["WANDB_DISABLED"] = "true"
 
 """ Pre-training a 🤗 ViT model as an MAE (masked autoencoder), as proposed in https://arxiv.org/abs/2111.06377."""
@@ -51,16 +52,19 @@ class DataTrainingArguments:
     """
 
     train_dataset_path: str = field(
+        default="./simulated_trn_data_2",
         metadata={
             "help": "Path to saved train arrow dataset of cell x gene expression matrix."
         }
     )
     val_dataset_path: str = field(
+        default="./simulated_val_data_2",
         metadata={
             "help": "Path to saved val arrow dataset of cell x gene expression matrix."
         }
     )
     coords_dataset_path: str = field(
+        default="./simulated_coords_data_2",
         metadata={"help": "Path to saved arrow dataset of brain region coordinates."}
     )
     recording_col_name: str = field(
@@ -350,7 +354,7 @@ def main():
     else:
         model_args, data_args, training_args = parser.parse_args_into_dataclasses()
 
-    # Check that arguments for  make sense
+    # Check that arguments for make sense
     assert (
         data_args.num_timepoints_per_voxel % data_args.timepoint_patching_size == 0
     ), "Number of timepoints per voxel should be divisible by the timepoint patching size."
@@ -384,6 +388,9 @@ def main():
     logger.info(f"Training/evaluation parameters {training_args}")
 
     # Detecting last checkpoint.
+    
+    # training_args.output_dir = "./output_models"
+    
     last_checkpoint = None
     if (
         os.path.isdir(training_args.output_dir)
@@ -416,7 +423,7 @@ def main():
         )
 
     # --- Initialize Dataset ---#
-    # Load arrow datasets
+    # Load arrow datasets !!!
     train_ds = load_from_disk(data_args.train_dataset_path)
     val_ds = load_from_disk(data_args.val_dataset_path)
 
