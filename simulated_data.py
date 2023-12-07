@@ -2,20 +2,25 @@ import numpy as np
 from datasets import Dataset
 
 
-n_subjects = 50  # 数据集中的样本数量
+n_subjects = 100  # 数据集中的样本数量
 n_timepoints = 490  # 每个样本的时间点数
-n_voxels = 2 * 490 # 坐标数据集中的体素数量
+n_voxels = 424 # 坐标数据集中的体素数量
 
 recordings = np.random.rand(n_subjects, n_timepoints, n_voxels)
-labels = np.random.randint(0, 80, n_subjects)
+# recordings = np.random.rand(n_subjects, n_voxels, n_timepoints)
+labels = np.random.randint(1, 100, n_subjects)
 # coords = np.random.rand(n_subjects, n_voxels, 3) * 100  # 乘以100以得到更真实的坐标范围
-coords = np.random.rand(n_voxels, 3) * 100
+index =  np.arange(1, 425)
+coords = np.random.rand(424, 3) * 100
 
 train_val_dict = {
     'Voxelwise_RobustScaler_Normalized_Recording': recordings, # All_Patient_All_Voxel_Normalized_Recording
     'Age.At.MHQ': labels # Desired label for each patient
 }
-coords_dict = {'X': coords[ :, 0], 'Y': coords[ :, 1], 'Z': coords[ :, 2]}
+coords_dict = {'Index': index, 
+               'X': coords[ :, 0], 
+               'Y': coords[ :, 1], 
+               'Z': coords[ :, 2]}
 # coords_dict = {'X': coords[:, :, 0].flatten(), 'Y': coords[:, :, 1].flatten(), 'Z': coords[:, :, 2].flatten()}
 
 
