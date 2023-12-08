@@ -52,19 +52,19 @@ class DataTrainingArguments:
     """
 
     train_dataset_path: str = field(
-        default="./simulated_trn_data_2",
+        default="./simulated_trn_data",
         metadata={
             "help": "Path to saved train arrow dataset of cell x gene expression matrix."
         }
     )
     val_dataset_path: str = field(
-        default="./simulated_val_data_2",
+        default="./simulated_val_data",
         metadata={
             "help": "Path to saved val arrow dataset of cell x gene expression matrix."
         }
     )
     coords_dataset_path: str = field(
-        default="./simulated_coords_data_2",
+        default="./simulated_coords_data",
         metadata={"help": "Path to saved arrow dataset of brain region coordinates."}
     )
     recording_col_name: str = field(

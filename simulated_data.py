@@ -29,9 +29,9 @@ val_dataset = Dataset.from_dict(train_val_dict)  # 使用相同的数据作为�
 coords_dataset = Dataset.from_dict(coords_dict)
 
 
-train_dataset_path = './simulated_trn_data_2'
-val_dataset_path = './simulated_val_data_2'
-coords_dataset_path = './simulated_coords_data_2'
+train_dataset_path = './simulated_trn_data'
+val_dataset_path = './simulated_val_data'
+coords_dataset_path = './simulated_coords_data'
 
 train_dataset.save_to_disk(train_dataset_path)
 val_dataset.save_to_disk(val_dataset_path)
